@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\config\OpenApiConfig.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\controller\StudentController.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\entity\Student.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\exception\DuplicateEmailException.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\exception\GlobalExceptionHandler.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\repository\StudentRepository.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\service\impl\StudentServiceImpl.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\service\StudentService.java
+C:\Users\User\Desktop\student-management\student-management\src\main\java\com\example\student_management\StudentManagementApplication.java
