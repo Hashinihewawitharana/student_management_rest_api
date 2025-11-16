@@ -29,8 +29,8 @@ PostgreSQL  running
 
 Step 1 — Clone the Project
 
-git clone https://github.com/your-repo/student-management.git
-cd student-management
+git clone https://github.com/Hashinihewawitharana/student_management_rest_api.git
+cd student_management_rest_api
 
 
 Step 2 — Configure Database
